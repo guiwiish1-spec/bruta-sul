@@ -1,0 +1,11 @@
+{
+    "name": "alexandre/gym-system",
+
+    "autoload": {
+        "psr-4": {
+            "Source\\": "source/"
+        }
+    },
+
+    "require": {}
+}
